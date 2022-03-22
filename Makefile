@@ -10,4 +10,5 @@ testdeps:
 
 build:
 	make deps
+	make testdeps
 	make test
