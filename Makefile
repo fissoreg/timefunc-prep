@@ -1,5 +1,5 @@
 test:  ## Run tests
-	pytest -ra
+	python -m pytest -ra
 
 deps:  ## Install dependencies
 	pip install --upgrade pip
