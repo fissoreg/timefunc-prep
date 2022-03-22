@@ -1,3 +1,5 @@
+![build](https://github.com/fissoreg/timefunc-prep/actions/workflows/build.yml/badge.svg)
+
 # timefunc-prep
 A simple benchmarking function.
 
